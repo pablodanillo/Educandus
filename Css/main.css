@@ -1,0 +1,103 @@
+.first_bar{
+    background-color: #f3f3f3;
+    width: 100%;
+    height: 30px;
+}
+.main_bar{
+    background-color: #c4170c;
+    height: 74px;
+    justify-content: space-between;
+    display: flex;
+
+}
+.globocom{
+    color: #005cef;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.g1{
+    color: #c4170c;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.globo_esporte{
+    color: #3e831e;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.gshow{
+    color: #ff7f00;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.video{
+    color: #005cef;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.teste{ 
+    color: darkgrey;
+ }
+.links ul li {
+    width: 15%;
+display: inline;
+}
+.links{
+    width: 980px;
+}
+.fa-bars{
+    color: #f3f3f3;
+    padding-top: 25px;
+
+
+display: block;
+
+
+}
+.logo_g1{
+    color: #f3f3f3;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 25px;
+   
+}
+.acic{
+    display: flex;
+    padding: 25px;
+    color: white;
+}
+
+.page_center{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    text-align: center;
+}
+.social_midia ul li{
+    display: inline-block;
+    margin-left: 54px;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    width: 1348px;
+    position: relative;
+    
+}
+.busca{
+    float: right;
+    padding-top: 25px;
+}
